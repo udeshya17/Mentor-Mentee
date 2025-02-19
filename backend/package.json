@@ -8,5 +8,14 @@
   "keywords": [],
   "author": "Udeshya",
   "license": "ISC",
-  "description": "It's a platform where Mentor and Mentee can connect to each other"
+  "description": "It's a platform where Mentor and Mentee can connect to each other",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
